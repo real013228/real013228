@@ -9,6 +9,6 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=telegram)](https://t.me/sakir0132)
 
 ### Some statistics
-[![Anurag's GitHub stats](https://github-readme-stats ae.vercel.app/api?username=real013228&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=real013228&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=real013228&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
